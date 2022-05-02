@@ -1,4 +1,9 @@
-# cards
+# weather_app
+this project was built to determine the weather condition of any city in the world
+
+## language
+javascript
+vue
 
 ## Project setup
 ```
